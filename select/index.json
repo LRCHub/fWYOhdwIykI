@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "シューティングスター",
+  "base_artist": "Mr.FanTastiC",
+  "createdAt": "2026-02-21T05:51:00.007825Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シューティングスター",
+      "artist": "岸堂天真",
+      "has_synced": true,
+      "path": "select/01_シューティングスター_岸堂天真.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シューティングスター",
+      "artist": "Amatsuki",
+      "has_synced": false,
+      "path": "select/02_シューティングスター_Amatsuki.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シューティングスター",
+      "artist": "Hachioji P; Kagamine Rin; Kagamine Len",
+      "has_synced": false,
+      "path": "select/03_シューティングスター_Hachioji_P;_Kagamine_Rin;_Kagamine_Len.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シューティングスター",
+      "artist": "佐伯ユウスケ",
+      "has_synced": false,
+      "path": "select/04_シューティングスター_佐伯ユウスケ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シューティングスター",
+      "artist": "Saeki, youthK",
+      "has_synced": false,
+      "path": "select/05_シューティングスター_Saeki,_youthK.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "shooting star ～シューティングスター～",
+      "artist": "My Little Lover",
+      "has_synced": false,
+      "path": "select/06_shooting_star_~シューティングスター~_My_Little_Lover.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シューティングスター",
+      "artist": "アリエＰ",
+      "has_synced": true,
+      "path": "select/07_シューティングスター_アリエP.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "シューティングスター",
+      "artist": "000(おれお)",
+      "has_synced": true,
+      "path": "select/08_シューティングスター_000(おれお).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "シューティングスター",
+      "artist": "Hachioji P",
+      "has_synced": false,
+      "path": "select/09_シューティングスター_Hachioji_P.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "シューティングスター",
+      "artist": "The Sixth Lie",
+      "has_synced": false,
+      "path": "select/10_シューティングスター_The_Sixth_Lie.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "シューティングスター",
+      "artist": "Hachioji P/Kagamine Rin/Kagamine Len",
+      "has_synced": false,
+      "path": "select/11_シューティングスター_Hachioji_P_Kagamine_Rin_Kagamine_Len.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シューティングスター",
+      "artist": "Mr.FanTastiC",
+      "has_synced": false,
+      "path": "select/pl_01_シューティングスター_Mr.FanTastiC.txt"
+    }
+  ]
+}
